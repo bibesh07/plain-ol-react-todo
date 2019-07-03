@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+}
+
+#to-do-list {
+  margin-top: 40px;
+  width: 81%;
+}
+
+i.icon.logout:hover, i.icon.outline:hover {
+  color: #db2828 !important;
+  cursor: pointer
+}
+
+.right {
+  float: right;
+}
